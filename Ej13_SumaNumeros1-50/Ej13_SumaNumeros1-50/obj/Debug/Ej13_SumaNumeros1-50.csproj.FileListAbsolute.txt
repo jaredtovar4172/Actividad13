@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\bin\Debug\Ej13_SumaNumeros1-50.exe.config
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\bin\Debug\Ej13_SumaNumeros1-50.exe
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\bin\Debug\Ej13_SumaNumeros1-50.pdb
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\obj\Debug\Ej13_SumaNumeros1-50.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\obj\Debug\Ej13_SumaNumeros1_50.Form1.resources
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\obj\Debug\Ej13_SumaNumeros1_50.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\obj\Debug\Ej13_SumaNumeros1-50.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\obj\Debug\Ej13_SumaNumeros1-50.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\obj\Debug\Ej13_SumaNumeros1-50.exe
+C:\Users\jared\source\repos\Ej13_SumaNumeros1-50\Ej13_SumaNumeros1-50\obj\Debug\Ej13_SumaNumeros1-50.pdb
